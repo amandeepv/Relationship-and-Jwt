@@ -1,0 +1,2 @@
+[20-Aug-2018 17:58:10 UTC] PHP Fatal error:  Cannot use $this as parameter in /home/ubuntu/workspace/laravel/app/User.php on line 72
+[20-Aug-2018 18:06:15 UTC] PHP Notice:  Array to string conversion in /home/ubuntu/workspace/laravel/app/User.php on line 78
